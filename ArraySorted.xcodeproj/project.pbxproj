@@ -101,14 +101,8 @@
 		D23101721F84CE80005F50FE /* ArraySorted */ = {
 			isa = PBXGroup;
 			children = (
-				D23101761F84CE80005F50FE /* AppDelegate.h */,
-				D23101771F84CE80005F50FE /* AppDelegate.m */,
 				D23101791F84CE80005F50FE /* ViewController.h */,
 				D231017A1F84CE80005F50FE /* ViewController.m */,
-				D231017C1F84CE80005F50FE /* Main.storyboard */,
-				D231017F1F84CE80005F50FE /* Assets.xcassets */,
-				D23101811F84CE80005F50FE /* LaunchScreen.storyboard */,
-				D23101841F84CE80005F50FE /* Info.plist */,
 				D23101731F84CE80005F50FE /* Supporting Files */,
 			);
 			path = ArraySorted;
@@ -117,6 +111,12 @@
 		D23101731F84CE80005F50FE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D23101761F84CE80005F50FE /* AppDelegate.h */,
+				D23101771F84CE80005F50FE /* AppDelegate.m */,
+				D231017C1F84CE80005F50FE /* Main.storyboard */,
+				D231017F1F84CE80005F50FE /* Assets.xcassets */,
+				D23101811F84CE80005F50FE /* LaunchScreen.storyboard */,
+				D23101841F84CE80005F50FE /* Info.plist */,
 				D23101741F84CE80005F50FE /* main.m */,
 			);
 			name = "Supporting Files";
